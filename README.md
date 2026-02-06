@@ -13,17 +13,11 @@ This test set can be used for manual evaluation, or it can be integrated into la
 ```
 Model：qwen3-max-2026-01-23
 {
-
   "temperature": 0.05,
-  
   "top_p": 0.85,
-  
   "top_k": 15,
-  
   "min_p": 0.03,
-  
   "max_tokens": 1024,
-  
 }
 ```
 ```
