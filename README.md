@@ -1,5 +1,4 @@
 # Professional-Fire-Safety-AI-Benchmark-Test
-### Jade Bird Fire Alarm International (USA) Co., Ltd. Professional Fire Safety AI Benchmark Test
 This dataset is used to benchmark AI in the fire safety industry, with a total of 200 items. The current version is V0.1 beta.
 > \[!NOTE]
 >
